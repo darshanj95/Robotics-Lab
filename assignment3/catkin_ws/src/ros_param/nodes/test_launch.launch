@@ -1,0 +1,10 @@
+<launch>
+
+    <node name="testnode" pkg="ros_param" type="testnode.py" output="screen" >
+      <param name="firstname" type="string" value="Darshan" />
+      <param name="lastname" type="string" value="Jain" />
+      <param name="age" type="int" value="22" />
+      <param name="GPA" type="double" value="3.515" />
+    </node>
+
+</launch>

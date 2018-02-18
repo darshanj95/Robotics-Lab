@@ -1,0 +1,8 @@
+prefix=/home/darshan/catkin_ws/devel
+
+Name: ros_param
+Description: Description of ros_param
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/darshan/catkin_ws/devel/lib 
+Requires: 
